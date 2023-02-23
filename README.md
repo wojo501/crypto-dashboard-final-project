@@ -20,3 +20,5 @@ Our assumptions about the app were:
 We decided to create GUI with Swing library as it is simple project.
 Data were collected thaks to the CoinApi 2.0 website.
 Team decided to set time range thanks to two buttons.
+
+![alt text](https://github.com/wojo501/AdvancedObjectProgrammingJava-UniversityFinalProject/blob/main/images/buttons.png)
