@@ -13,7 +13,7 @@ We wanted to display current value of each crypto in dollars.
 Our assumptions about the app were:
 - clarity
 - simplicity
-
+![alt text](https://github.com/wojo501/AdvancedObjectProgrammingJava-UniversityFinalProject/blob/[branch]/image.jpg?raw=true)
 
 
 We decided to create GUI with Swing library as it is simple project.
