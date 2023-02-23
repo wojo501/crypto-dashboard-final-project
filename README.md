@@ -20,9 +20,9 @@ Our assumptions about the app were:
 
 <br/>
 
-We decided to create GUI with Swing library as it is simple project. 
-Data were collected thaks to the CoinApi 2.0 website. 
-Team decided to set time range thanks to two buttons.
+We decided to create GUI with Swing library as it is simple project. \
+Data were collected thaks to the CoinApi 2.0 website. \
+Team decided to set time range thanks to two buttons. 
 
 <br/>
 
