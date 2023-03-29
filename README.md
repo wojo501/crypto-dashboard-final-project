@@ -27,7 +27,7 @@ Our assumptions about the app were:
 <br/>
 
 ![final view](https://github.com/wojo501/AdvancedObjectProgrammingJava-UniversityFinalProject/blob/main/images/final.png)
-![Solana Picture](https://github.com/wojo501/AdvancedObjectProgrammingJava-UniversityFinalProject/blob/main/images/cryptoSolana.png)
+![Solana Picture](https://github.com/wojo501/AdvancedObjectProgrammingJava-UniversityFinalProject/blob/main/images/kryptoSolana.png)
 
 <br/>
 
